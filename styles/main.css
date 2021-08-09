@@ -322,7 +322,7 @@ a {
   left: 0;
   top: 0;
   bottom: 0;
-  background-color: #7c8280;
+  background-color: #1d2220;
   background-size: cover;
   background-position: center;
   background-image: url('../media/images/sidebar-bg.jpg');
@@ -342,13 +342,13 @@ a {
   width: 80px;
   height: 80px;
   border-radius: 50%;
-  border: 2px solid #F1F3F5;
+  border: 2px solid #061625;
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
 }
 .sidebar .top-container .site-title {
   font-size: 24px;
   padding: 32px 0;
-  color: #dee2e6;
+  color: #08192b;
 }
 .sidebar .top-container .site-nav {
   display: block;
