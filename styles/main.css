@@ -269,13 +269,13 @@ summary {
 /* Purple */
 .hljs-keyword,
 .hljs-selector-tag {
-  color: #dcc6e0;
+  color: #512558;
 }
 .hljs {
   display: block;
   overflow-x: auto;
   background: #2b2b2b;
-  color: #f8f8f2;
+  color: #1d1d18;
   padding: 0.5em;
 }
 .hljs-emphasis {
